@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Local test" duration-ms="6066" started-at="2021-11-03T23:33:58 IST" finished-at="2021-11-03T23:34:04 IST">
+    <groups>
+    </groups>
+    <test name="Veev home test" duration-ms="6066" started-at="2021-11-03T23:33:58 IST" finished-at="2021-11-03T23:34:04 IST">
+      <class name="Sanity">
+        <test-method status="PASS" signature="initSession()[pri:0, instance:Sanity@4985cbcb]" name="initSession" is-config="true" duration-ms="5269" started-at="2021-11-03T23:33:58 IST" finished-at="2021-11-03T23:34:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSession -->
+        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@4985cbcb]" name="initTest" is-config="true" duration-ms="18" started-at="2021-11-03T23:34:03 IST" finished-at="2021-11-03T23:34:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="t01()[pri:0, instance:Sanity@4985cbcb]" name="t01" duration-ms="114" started-at="2021-11-03T23:34:03 IST" finished-at="2021-11-03T23:34:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t01 -->
+        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@4985cbcb]" name="initTest" is-config="true" duration-ms="0" started-at="2021-11-03T23:34:03 IST" finished-at="2021-11-03T23:34:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method status="PASS" signature="t02()[pri:0, instance:Sanity@4985cbcb]" name="t02" duration-ms="1" started-at="2021-11-03T23:34:03 IST" finished-at="2021-11-03T23:34:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t02 -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Sanity@4985cbcb]" name="closeSession" is-config="true" duration-ms="555" started-at="2021-11-03T23:34:03 IST" finished-at="2021-11-03T23:34:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSession -->
+      </class> <!-- Sanity -->
+    </test> <!-- Veev home test -->
+  </suite> <!-- Local test -->
+</testng-results>

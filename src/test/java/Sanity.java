@@ -19,4 +19,9 @@ public class Sanity extends BaseTest {
         System.out.println("first test");
         Assert.assertEquals(mainPage.getAnimationText(), "Exceptional living\n" + "redefined.");
     }
+
+    @Test
+    public void t02() {
+        System.out.println(Utilities.CommonOps.randomString());
+    }
 }
