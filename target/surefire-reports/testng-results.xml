@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Local test" duration-ms="6144" started-at="2021-11-04T10:27:34 IST" finished-at="2021-11-04T10:27:41 IST">
+  <suite name="Local test" duration-ms="6356" started-at="2021-11-04T10:34:30 IST" finished-at="2021-11-04T10:34:36 IST">
     <groups>
     </groups>
-    <test name="Veev home test" duration-ms="6144" started-at="2021-11-04T10:27:34 IST" finished-at="2021-11-04T10:27:41 IST">
+    <test name="Veev home test" duration-ms="6356" started-at="2021-11-04T10:34:30 IST" finished-at="2021-11-04T10:34:36 IST">
       <class name="Sanity">
-        <test-method status="PASS" signature="initSession()[pri:0, instance:Sanity@549621f3]" name="initSession" is-config="true" duration-ms="5351" started-at="2021-11-04T10:27:34 IST" finished-at="2021-11-04T10:27:40 IST">
+        <test-method status="PASS" signature="initSession()[pri:0, instance:Sanity@71104a4]" name="initSession" is-config="true" duration-ms="5582" started-at="2021-11-04T10:34:30 IST" finished-at="2021-11-04T10:34:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initSession -->
-        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@549621f3]" name="initTest" is-config="true" duration-ms="18" started-at="2021-11-04T10:27:40 IST" finished-at="2021-11-04T10:27:40 IST">
+        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@71104a4]" name="initTest" is-config="true" duration-ms="18" started-at="2021-11-04T10:34:36 IST" finished-at="2021-11-04T10:34:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTest -->
-        <test-method status="PASS" signature="t01()[pri:0, instance:Sanity@549621f3]" name="t01" duration-ms="103" started-at="2021-11-04T10:27:40 IST" finished-at="2021-11-04T10:27:40 IST">
+        <test-method status="PASS" signature="t01()[pri:0, instance:Sanity@71104a4]" name="t01" duration-ms="98" started-at="2021-11-04T10:34:36 IST" finished-at="2021-11-04T10:34:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t01 -->
-        <test-method status="PASS" signature="t02()[pri:0, instance:Sanity@549621f3]" name="t02" duration-ms="1" started-at="2021-11-04T10:27:40 IST" finished-at="2021-11-04T10:27:40 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- t02 -->
-        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@549621f3]" name="initTest" is-config="true" duration-ms="0" started-at="2021-11-04T10:27:40 IST" finished-at="2021-11-04T10:27:40 IST">
+        <test-method status="PASS" signature="initTest()[pri:0, instance:Sanity@71104a4]" name="initTest" is-config="true" duration-ms="0" started-at="2021-11-04T10:34:36 IST" finished-at="2021-11-04T10:34:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initTest -->
-        <test-method status="PASS" signature="closeSession()[pri:0, instance:Sanity@549621f3]" name="closeSession" is-config="true" duration-ms="567" started-at="2021-11-04T10:27:40 IST" finished-at="2021-11-04T10:27:41 IST">
+        <test-method status="PASS" signature="t02()[pri:0, instance:Sanity@71104a4]" name="t02" duration-ms="1" started-at="2021-11-04T10:34:36 IST" finished-at="2021-11-04T10:34:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t02 -->
+        <test-method status="PASS" signature="closeSession()[pri:0, instance:Sanity@71104a4]" name="closeSession" is-config="true" duration-ms="553" started-at="2021-11-04T10:34:36 IST" finished-at="2021-11-04T10:34:36 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSession -->
